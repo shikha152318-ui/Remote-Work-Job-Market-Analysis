@@ -17,7 +17,7 @@ This project analyzes remote job postings from multiple sources to uncover:
 ## 📊 Dataset
 - **Sources:** [Kaggle Dataset]
 - **Size:** 5001rows and 20 columns
-- **Format:** CSV, JSON
+- **Format:** CSV
 
 ---
 
